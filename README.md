@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Adel! 👋
 
-<!--
-**Adel-Alsanad/Adel-Alsanad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from **Kuwait** and I love all things **tech**, **business**, and **entrepreneurship**. I started my tech journey as a **full-stack web developer**, working with HTML, CSS, JavaScript, Node.js, and React.
 
-Here are some ideas to get you started:
+### A bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 I'm really into how tech can solve real-world problems, especially in business.
+- 🚀 Recently, I’ve been diving into **AI** and **cloud computing**—two fields I’m super excited to explore more!
+- 🎓 I’m constantly learning and growing, whether it's building cool web projects or exploring new tech like cloud services and AI tools.
+
+### What I’ve worked with:
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js
+- **Libraries/Frameworks**: React
+- **Currently exploring**: AI, Cloud Computing
